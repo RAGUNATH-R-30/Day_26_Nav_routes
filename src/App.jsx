@@ -16,7 +16,7 @@ function App() {
     },
     {
       title: "How to Render an Array of Objects in React? [in 3 easy steps].",
-      imgsource: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Render-array-of-objects-in-ReactJs-1536x864.png",
+      imgsource: "./src/assets/fsd2.webp",
       type: "fsd"
     },
     {
