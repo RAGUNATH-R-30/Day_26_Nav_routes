@@ -4,7 +4,7 @@ import Card from "./Card"
 function Carrer({ content }) {
     let career = content.filter((item) => item.type == "career")
     return (
-        <div className="container mt-4">
+        <div className="container">
             <div className="row">
                 {
                     career.map((item, index) => {

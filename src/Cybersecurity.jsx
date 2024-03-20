@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.css"
 function Cybersecurity({content}) {
     let cybersecurity = content.filter((item)=>item.type=="cybersecurity")
     return (
-        <div className="container mt-4">
+        <div className="container">
             <div className="row">
                 {
                     cybersecurity.map((item, index) => {

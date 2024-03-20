@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.css"
 function Fsd({ content }) {
     let fsd = content.filter((item) => item.type == "fsd")
     return (
-        <div className="container mt-4">
+        <div className="container">
             <div className="row">
                 {
                     fsd.map((item, index) => {

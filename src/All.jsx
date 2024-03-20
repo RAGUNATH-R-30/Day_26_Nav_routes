@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.css"
 //this is where all the courses are displayed
 function All({ content }) {
     return (
-        <div className="container mt-4">
+        <div className="container">
             <div className="row">
                 {
                     content.map((item, index) => {

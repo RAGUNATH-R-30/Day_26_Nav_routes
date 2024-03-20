@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.css"
 function Datascience({ content }) {
     let datascience = content.filter((item) => item.type == "datascience")
     return (
-        <div className="container mt-4">
+        <div className="container">
             <div className="row">
                 {
                     datascience.map((item, index) => {
