@@ -36,12 +36,12 @@ function App() {
     },
     {
       title: "Roles and Responsibilities of a Data Scientist.",
-      imgsource: "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4-1536x866.png",
+      imgsource: "https://www.naukri.com/campus/career-guidance/wp-content/uploads/2023/11/what-is-data-science.jpg",
       type: "datascience"
     },
     {
       title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences.",
-      imgsource: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+      imgsource: "https://www.stockvault.net/data/2016/07/04/203788/thumb16.jpg",
       type: "cybersecurity"
     },
     {
