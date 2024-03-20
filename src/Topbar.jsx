@@ -20,7 +20,7 @@ function Topbar() {
                         <span className="navbar-toggler-icon" onClick={() => { menutoggler(!menutoggle) }}></span>
                     </button>
                     <div className={`collapse navbar-collapse ${menutoggle ? "show" : null}`} id="navbarSupportedContent">
-                        <ul className="navbar-nav m-auto mb-2 mb-lg-0 " >
+                        <ul className="navbar-nav m-auto mb-2 mb-lg-0 "style={{gap:10}} >
                             <li className="nav-item">
                                 <Link to={"/"} className="nav-link" style={{ textDecoration: "none", color: "grey" }}> <span style={{ ...isactive("ALL") }} onClick={() => handlechange("ALL")}>ALL</span></Link>
                             </li>
