@@ -11,17 +11,17 @@ function App() {
   let content = [
     {
       title: "6 Essential Prerequisites For Learning ReactJS.",
-      imgsource: "https://www.guvi.in/blog/wp-content/uploads/2021/05/react-600x314.jpg",
+      imgsource: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVhY3QlMjBqc3xlbnwwfHwwfHx8MA%3D%3D",
       type: "fsd"
     },
     {
       title: "How to Render an Array of Objects in React? [in 3 easy steps].",
-      imgsource: "./src/assets/fsd2.webp",
+      imgsource: "https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmVhY3QlMjBqc3xlbnwwfHwwfHx8MA%3D%3D",
       type: "fsd"
     },
     {
       title: "Use ReactJS to Fetch and Display Data from API - 5 Simple Steps.",
-      imgsource: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Fetch-Data-using-API-in-React.Js-1536x864.png",
+      imgsource: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdozvAF4_fyzUGal2yFoEUyDEksKlTf2orLsI5XVXL7BFR2dH0oC2bEoJwmUt-zSh8L50",
       type: "fsd"
     },
     {
